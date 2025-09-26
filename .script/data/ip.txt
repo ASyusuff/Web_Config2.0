@@ -1,0 +1,5 @@
+ip_address=192.168.0.1
+octet1=192
+octet2=168
+octet3=0
+octet4=1

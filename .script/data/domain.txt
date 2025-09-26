@@ -1,0 +1,6 @@
+main_domain=www.test.com
+sub_domain=sub.test.com
+root_domain1=test.com
+root_domain2=test.com
+sub_domain1=www
+sub_domain2=sub
